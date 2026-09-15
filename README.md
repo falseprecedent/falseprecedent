@@ -5,7 +5,9 @@
 
 
 artist ⋆ writer ⋆ professional yapper
+
 ambivert //  intp
+
 transmasc // almondsexual
 
 
@@ -16,6 +18,7 @@ transmasc // almondsexual
 zel / renryn / hiromi / neuvi
 
 artist • writer • oc maker
+
 ambivert • intp • low social battery
 
 neuvillette • higuruma 
@@ -26,12 +29,16 @@ neuvillette • higuruma
 <summary>🧷 byi</summary>
 
 low social battery • may disappear
+
 jokes a lot • slow to apologize
+
 not a people pleaser • ignore me if needed
 
 iwec if we've had past problems / beef
 
-dni • basic criteria • vizpop supporters • qwel supporters
+dni • basic criteria • vizpop supporters
+
+• qwel supporters
 
 </details>
 
@@ -39,6 +46,7 @@ dni • basic criteria • vizpop supporters • qwel supporters
 <summary>☁ interest</summary>
 
 genshin • jjk • sakamoto days
+
 alien stage • spyxfamily
 
 oc lore • oc designs • worldbuilding
