@@ -3,29 +3,27 @@
 
  zel / renryn
 
-☁ forecast pending...
 
 artist ⋆ writer ⋆ professional yapper
-ambivert ⟡ intp
-transmasc ⟡ bi (male pref) :3
+ambivert //  intp
+transmasc // almondsexual
 
-</div>
+
 
 <details>
-<summary>♡ about me</summary>
+<summary> about me</summary>
 
 zel / renryn / hiromi / neuvi
 
 artist • writer • oc maker
 ambivert • intp • low social battery
 
-neuvillette • dottore • inumaki
-higuruma • ivan • ego renegade boy
+neuvillette • higuruma 
 
 </details>
 
 <details>
-<summary>☂ byi</summary>
+<summary>🧷 byi</summary>
 
 low social battery • may disappear
 jokes a lot • slow to apologize
@@ -40,9 +38,8 @@ dni • basic criteria • vizpop supporters • qwel supporters
 <details>
 <summary>☁ interest</summary>
 
-genshin • jjk • hsr
-alien stage • animal hospital • thatmob
-outcasts (smp)
+genshin • jjk • sakamoto days
+alien stage • spyxfamily
 
 oc lore • oc designs • worldbuilding
 
@@ -52,4 +49,3 @@ oc lore • oc designs • worldbuilding
 
 
 
-</div>
