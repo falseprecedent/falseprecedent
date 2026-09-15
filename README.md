@@ -4,9 +4,7 @@
  zel / renryn
 
 
-artist ⋆ writer ⋆ professional yapper
-
-ambivert //  intp
+minor • manga reader • I DO NOT LARP
 
 transmasc // almondsexual
 
