@@ -1,7 +1,8 @@
  <div align="center">
 
 <!-- HEADER -->
-<img width="1787" height="986" alt="Untitled107_20261101182222" src="https://github.com/user-attachments/assets/90223363-2408-49be-b0c2-de2d9a15942e" />
+<img width="1787" height="314" alt="Untitled107_20261101183132" src="https://github.com/user-attachments/assets/66f39038-61b8-4350-92a6-e25a18c6065b" />
+
 
 
 <br>
@@ -19,6 +20,8 @@ he / himㅤㅤ𓏏𓏏ㅤㅤartist & animator
 <!-- INTRO + SPRITE -->
 <table>
 <tr>
+<img width="1787" height="986" alt="Untitled107_20261101183101" src="https://github.com/user-attachments/assets/3492f2c2-c853-4956-b41c-391fafba429d" />
+
 
 
 <td width="65%" align="left" valign="middle">
@@ -56,7 +59,7 @@ Hiromi Higuruma 𓈒 Neuvillette 𓈒 Nagumo
 <!-- SOCIALS -->
 ★ . ⠀⠀ ᥣᎥո𝓴𝓼𓈒
 
-<a href="https://github.com/TidesOfAForgettenName">GitHub</a>
+<a href="https://github.com/falseprecedent">GitHub</a>
 ㅤ𓏲ㅤ
 <a href="https://rentry.co/renryn">Rentry</a>
 ㅤ𓏲ㅤ
@@ -65,5 +68,8 @@ Hiromi Higuruma 𓈒 Neuvillette 𓈒 Nagumo
 <br>
 
 ✦ ࣪ ⠀⠀ thanks for visiting 𓈒
+
+<img width="1787" height="314" alt="Untitled107_20261101183137" src="https://github.com/user-attachments/assets/f70ad8a9-ac75-4fc0-a0e3-4bafe4a05c07" />
+
 
 </div>
