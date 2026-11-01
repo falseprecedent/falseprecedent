@@ -1,57 +1,69 @@
-<img width="1200" height="677" alt="Untitled71_20260915195528" src="https://github.com/user-attachments/assets/af654bfd-f85e-450e-b989-53b8fcd8a72d" />
-<div align="center">
+ <div align="center">
 
- zel / renryn
-
-
-minor • manga reader • I DO NOT LARP
-
-transmasc // almondsexual
+<!-- HEADER -->
+<img width="1787" height="986" alt="Untitled107_20261101182222" src="https://github.com/user-attachments/assets/90223363-2408-49be-b0c2-de2d9a15942e" />
 
 
+<br>
 
-<details>
-<summary> about me</summary>
+   nɑოe ｡
 
-zel / renryn / hiromi / neuvi
+<h2>Renryn 𓂃 Hiromi 𓂃 Kacchan</h2>
 
-artist • writer • oc maker
+★ . ⠀⠀ ᖘʳກ𑂘𓈒
 
-ambivert • intp • low social battery
+he / himㅤㅤ𓏏𓏏ㅤㅤartist & animator
 
-neuvillette • higuruma 
+<br>
 
-</details>
-
-<details>
-<summary>🧷 byi</summary>
-
-low social battery • may disappear
-
-jokes a lot • slow to apologize
-
-not a people pleaser • ignore me if needed
-
-iwec if we've had past problems / beef
-
-dni • basic criteria • vizpop supporters
-
-• qwel supporters
-
-</details>
-
-<details>
-<summary>☁ interest</summary>
-
-genshin • jjk • sakamoto days
-
-alien stage • spyxfamily
-
-oc lore • oc designs • worldbuilding
-
-</details>
-
-<div align="center">
+<!-- INTRO + SPRITE -->
+<table>
+<tr>
 
 
+<td width="65%" align="left" valign="middle">
 
+✦ ࣪ ⠀⠀ຣᡶᨡᡶυ𑂘𓈒
+
+awkward at first, talkative with friends.
+
+drained easily; slow to warm up.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- INTERESTS -->
+★ . ⠀⠀ ᥎᧙ Ꭵո𝓽𑂘𓈒
+
+JJK 𓈒 Dandy's World 𓈒 Witch Hat Atelier
+
+Alien Stage 𓈒 MHA 𓈒 Genshin
+
+Minecraft 𓈒 Roblox
+
+<br>
+
+<!-- FICTKINS -->
+✦ ࣪ ⠀⠀ᠻᎥᥴ𝓽𝓴Ꭵո𝓼𓈒
+
+Hiromi Higuruma 𓈒 Neuvillette 𓈒 Nagumo
+
+<br>
+
+<!-- SOCIALS -->
+★ . ⠀⠀ ᥣᎥո𝓴𝓼𓈒
+
+<a href="https://github.com/TidesOfAForgettenName">GitHub</a>
+ㅤ𓏲ㅤ
+<a href="https://rentry.co/renryn">Rentry</a>
+ㅤ𓏲ㅤ
+<a href="https://renryn.atabook.org/">Atabook</a>
+
+<br>
+
+✦ ࣪ ⠀⠀ thanks for visiting 𓈒
+
+</div>
